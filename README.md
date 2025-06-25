@@ -1,5 +1,4 @@
 # Accelerating LLaMA Inference: 4-bit Quantization + TorchCompile Using PrunaAI
-[In progress]
 
 This project has applied inference optimizations on Meta’s LLaMA-3.2-1B-Instruct using Pruna AI — an optimization framework to make model faster, smaller, cheaper, greener.
 
